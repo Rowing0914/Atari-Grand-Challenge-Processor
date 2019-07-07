@@ -44,11 +44,11 @@ not working.... maybe way toooo huge
 
   I don't know why but mostly the volume has been increased
 
-![data_description](/home/noio0925/Desktop/atari_v2_release/images/data_description.png)
+<img src="images/data_description.png">
 
 - Distributions
 
-  ![distribution](/home/noio0925/Desktop/atari_v2_release/images/distribution.png)
+  <img src="images/distribution.png">
 
 
 
